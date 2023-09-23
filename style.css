@@ -121,7 +121,9 @@ header.header-active form{
 
 
 .home{
-    min-height: 100vh; background: black no-repeat;
+    min-height: 100vh; 
+    background: linear-gradient(to right, #0575E6, #3498DB, #8EA2F8);
+    background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
